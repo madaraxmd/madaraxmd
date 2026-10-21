@@ -27,13 +27,26 @@ $ location
 Elpitiye, Southern Province, Sri Lanka 🇱🇰
 
 $ education
-Ambalangoda Dharmasoka College
+Ambalangoda Dharmasoka College (Grade 7)
 
 $ stack
-[ "JavaScript", "Python", "HTML5", "CSS3", "Node.js", "React" ]
+[ "JavaScript", "Python", "HTML5", "CSS3", "Node.js", "React", "Bootstrap" ]
 
 $ expertise
 [ "Web Development", "AI Automation", "WhatsApp Bot Development" ]
 
 $ status
-Building next-gen web tools and AI assistants. Open for projects!
+Building next-gen web tools, AI assistants, and open-source software. Open for projects!
+🛠️ TECH STACK & TOOLS
+​<div align="center">
+​<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,git,github,vscode,vercel,bootstrap,linux&theme=dark" />
+​</div>
+​📊 GITHUB STATS & ANALYTICS
+​<div align="center">
+​<img src="https://github-readme-stats.vercel.app/api?username=madaraxmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0b0b&title_color=ff2b3a&icon_color=ff2b3a" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaraxmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e0b0b&title_color=ff2b3a" width="48%" />
+​<img src="https://github-readme-streak-stats.herokuapp.com/?user=madaraxmd&theme=tokyonight&hide_border=true&background=0e0b0b&stroke=ff2b3a&fire=ff2b3a&sideNums=fff" width="100%" />
+​</div>
+​<div align="center">
+​<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=DEMON%20HEX%20CORPORATION&fontSize=20&fontColor=ff2b3a&animation=fadeIn" width="100%"/>
+​</div>
