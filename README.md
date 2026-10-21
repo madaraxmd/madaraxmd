@@ -1,20 +1,43 @@
 <div align="center">
 
-# ⚡ MADARA XMD | DEVELOPER UNIVERSE ⚡
-### **Founder of Demon Hex Corporation • Full-Stack & AI Automation Engineer**
+  <!-- Header Banner / Animation -->
+  <a href="https://github.com/madaraxmd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=FF2B3A&center=true&vcenter=true&width=700&height=70&lines=MADARA+XMD+%7C+DEVELOPER+UNIVERSE;Full-Stack+%26+AI+Automation+Engineer;Founder+of+Demon+Hex+Corporation" alt="Typing Header" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=FF2B3A&center=true&vCenter=true&width=600&height=50&lines=WELCOME+TO+MADARA+XMD+PROFILE;FOUNDER+OF+DEMON+HEX+CORPORATION;FULL-STACK+DEVELOPER+%26+AI+ENGINEER" alt="Typing SVG" />
+  <p align="center">
+    <b>Founder of Demon Hex Corporation • Full-Stack & AI Automation Engineer</b>
+  </p>
 
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/madaraxmd?color=ff2b3a&label=Followers&style=for-the-badge&logo=github)](https://github.com/madaraxmd?tab=followers)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=madaraxmd.madaraxmd&color=ff2b3a)](https://github.com/madaraxmd)
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://github.com/madaraxmd">
+      <img src="https://img.shields.io/badge/GITHUB-MADARAXMD-181717?style=for-the-badge&logo=github&logoColor=white&color=ff2b3a" alt="GitHub" />
+    </a>
+    <a href="mailto:meloshada69@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=110d0e" alt="Email" />
+    </a>
+    <a href="https://wa.me/">
+      <img src="https://img.shields.io/badge/WHATSAPP-CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="WhatsApp" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 💻 **ABOUT ME**
+## 💻 ABOUT ME
+
+Hi, I'm **Menula Oshada Priyadarshana**, widely known online as **Madara XMD** — a passionate **Full-Stack Developer & AI Automation Engineer** from Alpitiya, Sri Lanka studying at Ambalangoda Dharmasoka College.
+
+- 🚀 **Building Live Platforms:** AI apps, dev tools, WhatsApp automation bots, and open-source systems.
+- ⚡ **Expertise & Focus:** Web Development, Python AI Pipelines, Node.js WhatsApp Bots, and System Automation.
+- 🛠️ **Core Technologies:** JavaScript, Python, Node.js, HTML5/CSS3, React.
+- 🤝 **Collaboration:** Open for freelance projects, open-source initiatives, and bot/automation contracts.
+
+---
+
+### 🖥️ Terminal View
 
 ```bash
 $ whoami
@@ -24,29 +47,13 @@ $ organization
 Founder & CEO of Demon Hex Corporation
 
 $ location
-Elpitiye, Southern Province, Sri Lanka 🇱🇰
+Alpitiya, Southern Province, Sri Lanka 🇱🇰
 
 $ education
-Ambalangoda Dharmasoka College (Grade 7)
+Ambalangoda Dharmasoka College
 
 $ stack
-[ "JavaScript", "Python", "HTML5", "CSS3", "Node.js", "React", "Bootstrap" ]
+[ "JavaScript", "Python", "HTML5", "CSS3", "Node.js", "React", "Three.js" ]
 
 $ expertise
 [ "Web Development", "AI Automation", "WhatsApp Bot Development" ]
-
-$ status
-Building next-gen web tools, AI assistants, and open-source software. Open for projects!
-🛠️ TECH STACK & TOOLS
-​<div align="center">
-​<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,git,github,vscode,vercel,bootstrap,linux&theme=dark" />
-​</div>
-​📊 GITHUB STATS & ANALYTICS
-​<div align="center">
-​<img src="https://github-readme-stats.vercel.app/api?username=madaraxmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0b0b&title_color=ff2b3a&icon_color=ff2b3a" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaraxmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e0b0b&title_color=ff2b3a" width="48%" />
-​<img src="https://github-readme-streak-stats.herokuapp.com/?user=madaraxmd&theme=tokyonight&hide_border=true&background=0e0b0b&stroke=ff2b3a&fire=ff2b3a&sideNums=fff" width="100%" />
-​</div>
-​<div align="center">
-​<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=DEMON%20HEX%20CORPORATION&fontSize=20&fontColor=ff2b3a&animation=fadeIn" width="100%"/>
-​</div>
