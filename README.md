@@ -49,7 +49,7 @@
       <p>Feel free to connect or explore my work: <a href="https://github.com/madaraxmd">@madaraxmd</a></p>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/menulaoshadha69-blip/Oshada-Madara-XMD/main/photo.jpg" width="100%" style="border-radius:12px; border:2px solid #ff2b3a;" alt="Menula Oshada Priyadarshana">
+      <img src="https://raw.githubusercontent.com/menulaoshadha69-blip/Oshada-Madara-XMD/main/photo.jpg" width="100%" style="border-radius:12px; border:2px solid #ff2b3a;" alt="Menula Oshada Priyadarshana" />
     </td>
   </tr>
 </table>
@@ -128,12 +128,8 @@
 
 <br>
 
-<!-- Snake Game Animation Section -->
+<!-- Profile Views Counter -->
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/madaraxmd/madaraxmd/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-
-  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=madaraxmd&label=Profile%20views&color=ff2b3a&style=flat-square" alt="Profile Views" />
 
