@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- MADARA XMD Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0b0b&height=220&section=header&text=MADARA%20XMD&fontSize=60&fontColor=00D2FF&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20AUTOMATION&descAlignY=65&stroke=00D2FF&strokeWidth=2" width="100%" alt="Madara Banner" />
+  <!-- Canva Animated Banner -->
+  <img src="https://raw.githubusercontent.com/madaraxmd/madaraxmd/main/banner-madara.gif" width="100%" alt="Madara XMD Banner" />
 
   <br><br>
 
