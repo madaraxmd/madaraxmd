@@ -6,13 +6,13 @@
   <br>
 
   <!-- Typing SVG Banner -->
-  <a href="https://github.com/menulaoshadha69-blip">
+  <a href="https://github.com/madaraxmd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=FF2B3A&center=true&vcenter=true&width=700&height=50&lines=FOUNDER+OF+DEMON+HEX+CORPORATION;CREATOR+OF+MADARA+AI+ASSISTANT;WHATSAPP+BOT+DEVELOPER" alt="Typing Banner" />
   </a>
 
   <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="https://github.com/menulaoshadha69-blip">
+    <a href="https://github.com/madaraxmd">
       <img src="https://img.shields.io/badge/GITHUB-MADARAXMD-181717?style=for-the-badge&logo=github&logoColor=white&color=ff2b3a" alt="GitHub" />
     </a>
     <a href="mailto:meloshada69@gmail.com">
@@ -46,10 +46,10 @@
         <li>⚡ <b>Expertise:</b> Web Apps, Python AI Pipelines & Node.js Systems</li>
         <li>🎯 <b>Goal:</b> Creating high-performance automation software</li>
       </ul>
-      <p>Feel free to connect or explore my work: <a href="https://github.com/menulaoshadha69-blip">@menulaoshadha69-blip</a></p>
+      <p>Feel free to connect or explore my work: <a href="https://github.com/madaraxmd">@madaraxmd</a></p>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://github.com/menulaoshadha69-blip/Oshada-Madara-XMD/raw/main/photo.jpg" width="100%" style="border-radius:12px; border:2px solid #ff2b3a;" alt="Menula Oshada Priyadarshana">
+      <img src="https://raw.githubusercontent.com/menulaoshadha69-blip/Oshada-Madara-XMD/main/photo.jpg" width="100%" style="border-radius:12px; border:2px solid #ff2b3a;" alt="Menula Oshada Priyadarshana">
     </td>
   </tr>
 </table>
@@ -113,12 +113,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=menulaoshadha69-blip&show_icons=true&theme=dark&color_threshold=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a&bg_color=0e0b0b&border_color=2a1517" alt="Madara XMD Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menulaoshadha69-blip&theme=dark&background=0e0b0b&border=2a1517&stroke=ff2b3a&ring=ff2b3a&fire=ff2b3a&currStreakNum=ff2b3a" alt="Madara XMD Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madaraxmd&show_icons=true&theme=dark&color_threshold=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a&bg_color=0e0b0b&border_color=2a1517" alt="Madara XMD Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madaraxmd&theme=dark&background=0e0b0b&border=2a1517&stroke=ff2b3a&ring=ff2b3a&fire=ff2b3a&currStreakNum=ff2b3a" alt="Madara XMD Streak" width="48%" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menulaoshadha69-blip&layout=compact&theme=dark&title_color=ff2b3a&bg_color=0e0b0b&border_color=2a1517" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaraxmd&layout=compact&theme=dark&title_color=ff2b3a&bg_color=0e0b0b&border_color=2a1517" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -128,9 +128,14 @@
 
 <br>
 
+<!-- Snake Game Animation Section -->
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=menulaoshadha69-blip&label=Profile%20views&color=ff2b3a&style=flat-square" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/madaraxmd/madaraxmd/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=madaraxmd&label=Profile%20views&color=ff2b3a&style=flat-square" alt="Profile Views" />
 
   <br><br>
   <p><b>Let's build something great together.</b></p>
