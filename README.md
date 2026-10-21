@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Blue Animated Banner -->
-  <img src="https://raw.githubusercontent.com/madaraxmd/madaraxmd/main/banner-blue.gif" width="100%" alt="Madara XMD Banner" />
+  <!-- MADARA XMD Animated Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0b0b&height=220&section=header&text=MADARA%20XMD&fontSize=60&fontColor=00D2FF&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20AUTOMATION&descAlignY=65&stroke=00D2FF&strokeWidth=2" width="100%" alt="Madara Banner" />
 
   <br><br>
 
-  <!-- Typing SVG Text Animation -->
+  <!-- Dynamic Animated Typing Header Text -->
   <a href="https://github.com/madaraxmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=700&height=50&lines=MADARA+XMD+%7C+FULL+STACK+DEVELOPER;AI+%26+AUTOMATION+ENGINEER;FOUNDER+OF+DEMON+HEX+CORPORATION" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00D2FF&center=true&vcenter=true&width=750&height=60&lines=MADARA+XMD+%7C+DEVELOPER+UNIVERSE;FULL+STACK+DEVELOPER+%26+AI+ENGINEER;FOUNDER+OF+DEMON+HEX+CORPORATION" alt="Madara Typing Animation" />
   </a>
 
   <!-- Social Contact Badges -->
